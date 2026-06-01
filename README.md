@@ -24,7 +24,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿![Video Walkthrough](https://imgur.com/hNXDSfu)
+👉🏿![Video Walkthrough](https://i.imgur.com/hNXDSfu.gif)
 
 GIF created with ScreenToGif
 ## Notes
