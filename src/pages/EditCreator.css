@@ -1,0 +1,10 @@
+.edit-creator-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.edit-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}

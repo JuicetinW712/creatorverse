@@ -1,0 +1,23 @@
+.view-creator-container {
+  padding: 20px;
+}
+
+.view-creator-header {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.view-creator-image {
+  max-width: 400px;
+  margin: 20px 0;
+  display: block;
+}
+
+.view-creator-footer {
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px solid #eee;
+  display: flex;
+  gap: 15px;
+}

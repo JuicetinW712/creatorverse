@@ -1,0 +1,27 @@
+.creator-item {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+}
+
+.creator-item h3 {
+  margin-top: 0;
+}
+
+.creator-item p {
+  color: #555;
+}
+
+.creator-links {
+  margin-top: 10px;
+}
+
+.creator-links a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.creator-links a:hover {
+  text-decoration: underline;
+}
